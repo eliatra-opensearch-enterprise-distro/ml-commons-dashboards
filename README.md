@@ -1,22 +1,21 @@
-[![Test](https://github.com/opensearch-project/ml-commons-dashboards/actions/workflows/unit-tests-workflow.yml/badge.svg?branch=main)](https://github.com/opensearch-project/ml-commons-dashboards/actions/workflows/unit-tests-workflow.yml)
-[![codecov](https://codecov.io/gh/opensearch-project/ml-commons-dashboards/branch/main/graph/badge.svg)](https://codecov.io/gh/opensearch-project/ml-commons-dashboards)
-<br/>
-<img src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" height="64px"/>
+# Eliatra OpenSearch Enterprise Distro (EOED) - Long Term Support for OpenSearch
 
-## OpenSearch Machine Learning Dashboards
+This repository is part of the Eliatra OpenSearch Enterprise Distro (EOED).
 
-Machine Learning Dashboards is an OpenSearch-Dashboards plugin which enables machine learning model builders to seamlessly integrate and manage the trained models on OpenSearch Dashboard.
+## Questions?
 
-## Project Resources
-
-1. Project Website
-2. [Developer guide](DEVELOPER_GUIDE.md)
-3. [Contributing to this project](CONTRIBUTING.md)
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+Please refer to https://eliatra.com/opensearch-enterprise-distro or ask your questions in our [Forum](https://forum.eliatra.com).
 
 ## License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under a [commercial License](LICENSE.txt).
+
+## Copyright
+
+Copyright Eliatra. See [NOTICE](NOTICE.txt) for details.
+
+## Trademark
+
+OpenSearch is a registered trademark of Amazon Web Services.
+
+OpenSearch includes certain Apache-licensed Elasticsearch code from Elasticsearch B.V. and other source code. Elasticsearch B.V. is not the source of that other source code. ELASTICSEARCH is a registered trademark of Elasticsearch B.V.
